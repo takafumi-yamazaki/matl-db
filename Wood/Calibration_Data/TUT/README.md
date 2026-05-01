@@ -31,6 +31,12 @@ A TG-DTA was used to simultaneously conduct Thermogravimetric Analysis (TGA) exp
   - Type: Rigaku/TG-DTA8122
   - Furnace Type: Platinum
   - Notes: None
+* Additional experiments
+  - Additional experiments were conducted to evaluate the effect of residual oxygen in the measurement system as follows:
+  - R4 ~ R6
+    - The experiment was conducted with an additional evacuation process performed three times to replace the air inside the system.
+  - R7 ~ R9
+    - Carrir Gas Flow rate: 300mL/min
 
 | Test Name | O2 volume % |  Initial Sample Mass (mg) | Pressure (Pa) |
 | --------- | :---------: | :------------------------: | :------: |
@@ -40,3 +46,9 @@ A TG-DTA was used to simultaneously conduct Thermogravimetric Analysis (TGA) exp
 |TUT_TGA_N2_10K_40Pa_R1 | 0 | 5.028| 40 |
 |TUT_TGA_N2_10K_40Pa_R2 | 0 | 5.031| 40 |
 |TUT_TGA_N2_10K_40Pa_R3 | 0 | 4.926| 40 |
+|TUT_TGA_N2_10K_100kPa_R4 | 0 | 5.051| 100000 |  
+|TUT_TGA_N2_10K_100kPa_R5 | 0 | 5.060| 100000 |  
+|TUT_TGA_N2_10K_100kPa_R6 | 0 | 5.028| 100000 |  
+|TUT_TGA_N2_10K_100kPa_R7 | 0 | 4.915| 100000 |
+|TUT_TGA_N2_10K_100kPa_R8 | 0 | 5.022| 100000 |  
+|TUT_TGA_N2_10K_100kPa_R9 | 0 | 5.050| 100000 |  
